@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "515366477247",
+    "firebase_url": "https://fir-leaderboard-11613-default-rtdb.firebaseio.com",
+    "project_id": "fir-leaderboard-11613",
+    "storage_bucket": "fir-leaderboard-11613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515366477247:android:cbe1edcb9c63a178ccd50a",
+        "android_client_info": {
+          "package_name": "com.digitourney.firebaseleaderboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvaRBkixSLXbwZhcjSHgPqsKFcN6nTgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
